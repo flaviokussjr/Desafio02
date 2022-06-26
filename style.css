@@ -1,0 +1,110 @@
+
+
+* {
+ background-color: #1A202C;
+}
+
+body {     
+    font-family: Saira;
+    }
+
+.container {  
+    max-width: 1480px; 
+    margin: 0 auto;
+}
+.tittle {
+    color: white;    
+    justify-content: center;
+    display: flex;
+    font-size: 32px;
+    padding: 47px 870px 3px 869px;   
+}
+
+
+/*******************
+*   SECTION-PESSOAL
+********************/
+
+
+.container .logo .img-centro {      
+    display: relative;
+    padding: 206px 102px 1px 233px;  
+}
+
+.container .logo {
+    display: flex;   
+}
+
+.container .logo .dados {   
+    font-family: Saira;
+    color: white;
+    padding: 272px 1px 1px 102px;   
+}
+
+.container .logo .dados #nome { 
+    font-size: 52px;
+}
+
+.container .logo .dados ul li {
+    padding: 12px 1px;
+    list-style: none;
+}
+
+.conteudo .dados ul {
+    padding: 25px 1px 25px 1px;    
+}
+
+.container .logo .dados ul li .imagens {
+    padding: 0px 24px 1px 0px;
+}
+
+
+/*******************
+*   SECTION-REGRAS
+********************/
+
+
+.container .regras {
+
+    font-family: Saira;
+    color: white;
+    display: flex; 
+}
+
+.container .regras .detalhes {
+    max-width: 50%;
+    padding: 400px 108px 0px 175px;  
+}
+
+.container .regras .direito{
+    font-size: 28px;
+    width: 900px;
+    align-items: center;
+    padding: 443px 2px 0px 280px;
+}
+
+
+.container .regras ul {    
+    font-size: 22px;
+    list-style: none;
+}
+
+
+.container .regras ul li {
+    padding: 44px 0px;
+}
+
+.container .regras ul li .imagens {
+    padding: 0px 24px 1px 0px;
+}
+
+/*******************
+*   FOOTER
+********************/
+
+.footer {
+    font-family: Saira;
+    color: white;
+    text-align: center;
+    padding-top: 225px;
+}
